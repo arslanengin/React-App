@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "unique-1",
+      "name": "Engin Arslan",
+      "department": "4000",
+      "salary": "Yazılım"
+    },
+    {
+      "name": "Furkan Bayraktar",
+      "salary": "Javascript",
+      "department": "4000",
+      "id": "unique-2"
+    },
+    {
+      "name": "Mustafa Arslan",
+      "salary": "Spring",
+      "department": "4000",
+      "id": "unique-3"
+    },
+    {
+      "name": "Hakan Eren Şan",
+      "salary": "4000",
+      "department": "Siber Güvenlik",
+      "id": "_sa-WkD"
+    },
+    {
+      "name": "Bartu Arslan",
+      "salary": "3000",
+      "department": "Berber",
+      "id": "V9ugT1Q"
+    },
+    {
+      "name": "Ali Osman",
+      "salary": "3000",
+      "department": "Sistem",
+      "id": "1mv-yxR"
+    }
+  ]
+}
